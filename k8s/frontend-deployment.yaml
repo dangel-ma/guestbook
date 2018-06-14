@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: php-redis
-        image: docker.majustfortesting.com/exercises/guestbook:664c687
+        image: docker.majustfortesting.com/exercises/guestbook:8321a88
         resources:
           requests:
             cpu: 100m
